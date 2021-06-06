@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Estore.Client.dll": "sha256-R0d4tw3AQaCxg9Crmz5Ts5PaeQhDrRbMedA1wYN4veg=",
+      "Estore.Client.dll": "sha256-rarTdfdYdNKbAPOvQ\/JRB0A4Xc9Y43SYTL8dFTzkmg4=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -38,7 +38,6 @@
       "System.Numerics.Vectors.dll": "sha256-qAKfFnquY+7UC\/MzLi04rjqEhLzTryCoLg\/S6MxI19I=",
       "System.Text.Encodings.Web.dll": "sha256-Tqh1Da+iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod+uw4=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-D9y5RXbA\/sEzwk6cnGbGMKQv87bvOEEVycrLUTe0lGU=",
-      "Newtonsoft.Json.dll": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-bSgsT2x5xMvs8mara5wU+EJwcyHa9GVMU85HwhWcdWM=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-m7Q+cF5\/ji3OMfdGlCuE8pQ\/iM+kxNHLq\/IEWVvIaOg=",
       "System.ComponentModel.Annotations.dll": "sha256-tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=",
@@ -111,7 +110,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "Estore.Client.pdb": "sha256-eAC7a2ul+J\/bJwbn0mkcK6qLePbG+pEplBC6V6vSU54=",
+      "Estore.Client.pdb": "sha256-WF9H76gCLmCg+6KL5M67WYX1\/gOMBqt1XAJLJR0C5KQ=",
       "Estore.Shared.pdb": "sha256-\/Mo5PH7U0kXXreDwXZk3dvTgPaaF2iaGADctfSvpkO8=",
       "Microsoft.Data.SqlClient.pdb": "sha256-6nKNVfiNR4inUtGezUcm6CbVuC9gID73Ouz6OV+k470="
     },

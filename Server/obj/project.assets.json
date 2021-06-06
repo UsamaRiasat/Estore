@@ -2642,11 +2642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usama riasat\\source\\repos\\Estore\\Server\\Estore.Server.csproj",
+      "projectUniqueName": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Server\\Estore.Server.csproj",
       "projectName": "Estore.Server",
-      "projectPath": "C:\\Users\\usama riasat\\source\\repos\\Estore\\Server\\Estore.Server.csproj",
+      "projectPath": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Server\\Estore.Server.csproj",
       "packagesPath": "C:\\Users\\usama riasat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usama riasat\\source\\repos\\Estore\\Server\\obj\\",
+      "outputPath": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usama riasat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2663,11 +2663,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\usama riasat\\source\\repos\\Estore\\Client\\Estore.Client.csproj": {
-              "projectPath": "C:\\Users\\usama riasat\\source\\repos\\Estore\\Client\\Estore.Client.csproj"
+            "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\Estore.Client.csproj": {
+              "projectPath": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\Estore.Client.csproj"
             },
-            "C:\\Users\\usama riasat\\source\\repos\\Estore\\Shared\\Estore.Shared.csproj": {
-              "projectPath": "C:\\Users\\usama riasat\\source\\repos\\Estore\\Shared\\Estore.Shared.csproj"
+            "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Shared\\Estore.Shared.csproj": {
+              "projectPath": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Shared\\Estore.Shared.csproj"
             }
           }
         }

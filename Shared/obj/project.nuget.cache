@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ak4Hi39QZ5e25YtV8P/WX1+fu/mo/JJckmr4h3Idv2OgLyMOuaW0IGY9pjKblpvOnH7XfaoxdUSm/LMsTpSOWw==",
+  "dgSpecHash": "Fb5wRfCiUkoLyRFVFOfSRHQGwM10p/oO56uELb3Fu/rRcRrEvS+PXaVjenQN8kr966x7rXGisOvcQFHEuHJAqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usama riasat\\source\\repos\\Estore\\Shared\\Estore.Shared.csproj",
+  "projectFilePath": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Shared\\Estore.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usama riasat\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\usama riasat\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

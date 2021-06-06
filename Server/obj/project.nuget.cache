@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KSWGjWhvH8tUQcMNv09s44kuki3sOPpxBxhmAExMrYg6PR4rscmiPcL2lK1ooziJehUZjjeNzOXCfN3rsYYSWg==",
+  "dgSpecHash": "VmQsLnxjkP3x7fvlC3ki/VpQ/+IOKmkAf6HV6pFDMikeBCHaYAD/vIw7n3YqcsFobMjFS18itUN4Ofq7y2yyNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usama riasat\\source\\repos\\Estore\\Server\\Estore.Server.csproj",
+  "projectFilePath": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Server\\Estore.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usama riasat\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\usama riasat\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
