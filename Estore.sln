@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estore.Server", "Server\Estore.Server.csproj", "{945CF9A1-571C-4A04-AD23-D33D9CD1126D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estore.Server", "Server\Estore.Server.csproj", "{945CF9A1-571C-4A04-AD23-D33D9CD1126D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estore.Client", "Client\Estore.Client.csproj", "{B769DAFA-05F1-43E0-A5D8-23EF4E7712E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estore.Client", "Client\Estore.Client.csproj", "{B769DAFA-05F1-43E0-A5D8-23EF4E7712E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estore.Shared", "Shared\Estore.Shared.csproj", "{9DC86F6B-B844-4228-A871-CEAA0A64BB82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estore.Shared", "Shared\Estore.Shared.csproj", "{9DC86F6B-B844-4228-A871-CEAA0A64BB82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rarTdfdYdNKbAPOvQ-JRB0A4Xc9Y43SYTL8dFTzkmg4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3N_Dz_5FmjfOBzh1VjL4Ev149wNQ5kQ1us6bLCZHyZ0=.hash",
       "Source": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Estore.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Estore.Client.dll.br"
     },
@@ -191,7 +191,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\an8LJZTsEGB3V6rb1mJtgDHeNsak0mVOwn3cxRjjKHA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\AZIuYhSRIRbbRUevgXgk9eQRvKGx3I3kLKzm76JhnIg=.hash",
       "Source": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Estore.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Estore.Shared.dll.br"
     },
@@ -511,12 +511,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\WF9H76gCLmCg_6KL5M67WYX1-gOMBqt1XAJLJR0C5KQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XhbeID0mK7VPvTjCiO8XWVgk8t0jZcu-GBIw77HrjEo=.hash",
       "Source": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Estore.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Estore.Client.pdb.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-Mo5PH7U0kXXreDwXZk3dvTgPaaF2iaGADctfSvpkO8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rL7D7UI6DeV2TMuKEYF8WfIkr6fzXool5l6Gx7SjQvE=.hash",
       "Source": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Estore.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Estore.Shared.pdb.br"
     },
@@ -546,7 +546,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\1SpA-LOQETlTPZZ5EnA03lQjDqGN1WVvFVvRtHRj3YQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LXTPwjuTxsmvnGsiFkir15HQqVfHIk6iyhUFLoua8dc=.hash",
       "Source": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }

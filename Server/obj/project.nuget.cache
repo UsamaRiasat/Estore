@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VmQsLnxjkP3x7fvlC3ki/VpQ/+IOKmkAf6HV6pFDMikeBCHaYAD/vIw7n3YqcsFobMjFS18itUN4Ofq7y2yyNA==",
+  "dgSpecHash": "tKsUZI0y8dxgkj2zABsqMz0t9eTqB1FAWf8viNQbQm8ww4yPHU2toopWhMhdgD3shUIKIQbNLYZ9DxIUzG1mTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Server\\Estore.Server.csproj",
   "expectedPackageFiles": [
@@ -50,7 +50,6 @@
     "C:\\Users\\usama riasat\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\usama riasat\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\usama riasat\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "C:\\Users\\usama riasat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\usama riasat\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\usama riasat\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\usama riasat\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",

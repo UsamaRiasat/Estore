@@ -398,8 +398,6 @@ C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Esto
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.StaticWebAssets.xml
-C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.StaticWebAssets.xml
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.exe
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.deps.json
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.runtimeconfig.json
@@ -445,7 +443,6 @@ C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Esto
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
-C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
@@ -463,9 +460,7 @@ C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Esto
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Shared.dll
-C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.pdb
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Shared.pdb
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csprojAssemblyReference.cache
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfoInputs.cache
@@ -489,3 +484,7 @@ C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Esto
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.pdb
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.genruntimeconfig.cache
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.StaticWebAssets.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.StaticWebAssets.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.pdb
