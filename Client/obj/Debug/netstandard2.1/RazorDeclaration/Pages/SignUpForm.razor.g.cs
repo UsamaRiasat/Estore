@@ -105,7 +105,7 @@ using Estore.Server.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 45 "E:\BIT\Semester-VI\EAD\Project\Estore\Client\Pages\SignUpForm.razor"
+#line 38 "E:\BIT\Semester-VI\EAD\Project\Estore\Client\Pages\SignUpForm.razor"
  
     public class Seller
     {

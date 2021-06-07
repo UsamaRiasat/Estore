@@ -1439,6 +1439,6 @@ E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\Estore.Cli
 E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\Estore.Client.csproj.CopyComplete
 E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\Estore.Client.dll
 E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\Estore.Client.pdb
-E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\integrity\nNo_i3lLUx8eWSvLHj5BXulgcBFDBF5FSwTb_o4vGoc=.hash
-E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\integrity\auos3VK3p95qjwb8v4GE_zfxF4G9WESKR0MT_FIsEUA=.hash
-E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\integrity\MQadONMb5JShaZRgonBhXMlxDPIhyWcm1Otf563Gx-Q=.hash
+E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\integrity\TtXoFR69dKqpDztYextkpgiXr4rg2k_j5SKg_yp-6OU=.hash
+E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\integrity\OvOsnYJ_nyYzwMu8EJMhmilSSBybww9OcCkUx6eLD2g=.hash
+E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\integrity\cDWXjvvTCU2SJyHfbvfcksw6xWavH2kYLgcn8aePfXY=.hash

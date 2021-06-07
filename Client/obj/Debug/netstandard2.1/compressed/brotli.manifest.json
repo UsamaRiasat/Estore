@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\nNo_i3lLUx8eWSvLHj5BXulgcBFDBF5FSwTb_o4vGoc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\TtXoFR69dKqpDztYextkpgiXr4rg2k_j5SKg_yp-6OU=.hash",
       "Source": "E:\\BIT\\Semester-VI\\EAD\\Project\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Estore.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Estore.Client.dll.br"
     },
@@ -516,7 +516,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\auos3VK3p95qjwb8v4GE_zfxF4G9WESKR0MT_FIsEUA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OvOsnYJ_nyYzwMu8EJMhmilSSBybww9OcCkUx6eLD2g=.hash",
       "Source": "E:\\BIT\\Semester-VI\\EAD\\Project\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Estore.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Estore.Client.pdb.br"
     },
@@ -551,7 +551,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\MQadONMb5JShaZRgonBhXMlxDPIhyWcm1Otf563Gx-Q=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cDWXjvvTCU2SJyHfbvfcksw6xWavH2kYLgcn8aePfXY=.hash",
       "Source": "E:\\BIT\\Semester-VI\\EAD\\Project\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }
