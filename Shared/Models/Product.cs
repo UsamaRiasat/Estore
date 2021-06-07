@@ -15,5 +15,7 @@ namespace Estore.Server.Models
         public string Category { get; set; }
         public string OwnerId { get; set; }
         public int? Ratings { get; set; }
+
     }
+
 }

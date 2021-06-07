@@ -1,6 +1,7 @@
 ﻿using Estore.Server.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,6 +21,15 @@ namespace Estore.Server.Controllers
         {
             return "Umair";
         }
+
+        [HttpGet]
+        [Route("ShowProducts")]
+        public List<Product> GetProducts()
+        {
+            List<Product> products = DB.Products.ToList<Product>();
+            return products;
+        }
+
 
         [HttpPost]
         [Route("AddProduct")]
@@ -73,5 +83,15 @@ namespace Estore.Server.Controllers
                 // Provide for exceptions.
             }
         }
+        [HttpGet]
+        [Route("getProductsByOwnerID")]
+        public List<Product> getByID(int ID)
+        {
+            string id = ID.ToString();
+            List<Product> products = DB.Products.Where(x=>x.OwnerId==id).ToList<Product>();
+            return products;
+        }
+        
+
     }
 }

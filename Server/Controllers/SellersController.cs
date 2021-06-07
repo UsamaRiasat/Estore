@@ -35,7 +35,7 @@ namespace Estore.Server.Controllers
 
 
 
-        [HttpGet]
+        [HttpPost]
         [Route("isSeller")]
         public bool isSeller(Seller sellers)
         {

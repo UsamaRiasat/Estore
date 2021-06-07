@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3N_Dz_5FmjfOBzh1VjL4Ev149wNQ5kQ1us6bLCZHyZ0=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_qmgTur7crLvu0P_bRTTxjlGJAClnQxvUqCegTXuyE4=.hash",
       "Source": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Estore.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Estore.Client.dll.br"
     },
@@ -161,6 +161,11 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
     },
     {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cs8pHUurDt0IqbB8YXPh560au3q3J-1wRL9jBddRVmE=.hash",
+      "Source": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Newtonsoft.Json.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Newtonsoft.Json.dll.br"
+    },
+    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash",
       "Source": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
@@ -191,7 +196,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\AZIuYhSRIRbbRUevgXgk9eQRvKGx3I3kLKzm76JhnIg=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\J3pIjtFl-Nx2AnimJYR7eSZy9a248e9BCUXp1MA9X-M=.hash",
       "Source": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Estore.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Estore.Shared.dll.br"
     },
@@ -511,12 +516,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\XhbeID0mK7VPvTjCiO8XWVgk8t0jZcu-GBIw77HrjEo=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\M3xVnvIj2l9ef5sn8CPg2G-g_ZyXa8_OfIYZCBvn8U4=.hash",
       "Source": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Estore.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Estore.Client.pdb.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rL7D7UI6DeV2TMuKEYF8WfIkr6fzXool5l6Gx7SjQvE=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\UfeuklnnF99F1IfRlBb6KMsorO5n4ZbVGcrg22Mo9gs=.hash",
       "Source": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Estore.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Estore.Shared.pdb.br"
     },
@@ -546,7 +551,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LXTPwjuTxsmvnGsiFkir15HQqVfHIk6iyhUFLoua8dc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\10Lsf4cUycljw9nxJAFYj3P4pupq9fnGkaz7gjolass=.hash",
       "Source": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }

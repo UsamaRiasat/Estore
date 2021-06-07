@@ -488,3 +488,4 @@ C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Esto
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.StaticWebAssets.xml
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

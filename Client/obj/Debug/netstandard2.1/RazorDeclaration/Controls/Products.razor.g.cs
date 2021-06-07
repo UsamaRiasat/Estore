@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace Estore.Client.Pages
+namespace Estore.Client.Controls
 {
     #line hidden
     using System;
@@ -75,13 +75,54 @@ using Estore.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-    public partial class Component : Microsoft.AspNetCore.Components.ComponentBase
+#nullable restore
+#line 10 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\_Imports.razor"
+using Estore.Client.Services;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 11 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\_Imports.razor"
+using Estore.Server.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\_Imports.razor"
+using Estore.Client.Controls;
+
+#line default
+#line hidden
+#nullable disable
+    public partial class Products : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 20 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\Controls\Products.razor"
+       
+    [Parameter]
+    public string ProductName { set; get; }
+
+    [Parameter]
+    public string Category { set; get; }
+
+    [Parameter]
+    public string Price { set; get; }
+
+    [Parameter]
+    public int Ratings { set; get; }
+
+    
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

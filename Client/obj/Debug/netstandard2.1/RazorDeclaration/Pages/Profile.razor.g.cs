@@ -75,6 +75,27 @@ using Estore.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\_Imports.razor"
+using Estore.Client.Services;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\_Imports.razor"
+using Estore.Client.Controls;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\Pages\Profile.razor"
+using Estore.Server.Models;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/Profile")]
     public partial class Profile : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -83,6 +104,43 @@ using Estore.Client.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 348 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\Pages\Profile.razor"
+ 
+    public string SellerName = "Usama Riasat";
+    public int ProductQuantity = 200;
+
+    //Get list of products
+    public string Category = "Furniture";
+    public string ProductName = "Silver Sofa";
+    public string Price = "799";
+    public string Ratings = "231";
+
+    private Catalog Catalog { get; set; } = new Catalog();
+    protected async override Task OnInitializedAsync()
+    {
+        Catalog = await svc.GetProduct();
+        await base.OnInitializedAsync();
+    }
+
+    //List<Product> products = new List<Product> {
+    //    new Product(1,"Wood Chair","233$",40,"no","Chair","2",324),
+    //    new Product(2,"Golden Table","700$",42,"no","Table","2",344),
+    //    new Product(2,"Wood Chair","233$",40,"no","Chair","2",344),
+    //    new Product(2,"Chair","233$",40,"no","Chair","2",344),
+    //    new Product(2,"Wood Chair","233$",40,"no","Chair","2",344),
+    //    new Product(2,"Y. Table","233$",40,"no","Table","2",344),
+    //    new Product(2,"Wood Chair","233$",40,"no","Chair","2",344),
+    //    new Product(2,"Chair","233$",40,"no","Chair","2",344),
+    //    new Product(2,"Sofa Table","233$",40,"no","Table","2",344),
+    //    new Product(3,"Wood Chair","233$",40,"no","Chair","2",344),
+    //    new Product(2,"Chair","233$",40,"no","Chair","2",344),
+    //};
+
+#line default
+#line hidden
+#nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ProductServices svc { get; set; }
     }
 }
 #pragma warning restore 1591
