@@ -2637,19 +2637,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\usama riasat\\.nuget\\packages\\": {}
+    "C:\\Users\\HP USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Server\\Estore.Server.csproj",
+      "projectUniqueName": "E:\\BIT\\Semester-VI\\EAD\\Project\\Estore\\Server\\Estore.Server.csproj",
       "projectName": "Estore.Server",
-      "projectPath": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Server\\Estore.Server.csproj",
-      "packagesPath": "C:\\Users\\usama riasat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Server\\obj\\",
+      "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Project\\Estore\\Server\\Estore.Server.csproj",
+      "packagesPath": "C:\\Users\\HP USER\\.nuget\\packages\\",
+      "outputPath": "E:\\BIT\\Semester-VI\\EAD\\Project\\Estore\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\usama riasat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2663,11 +2663,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\Estore.Client.csproj": {
-              "projectPath": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Client\\Estore.Client.csproj"
+            "E:\\BIT\\Semester-VI\\EAD\\Project\\Estore\\Client\\Estore.Client.csproj": {
+              "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Project\\Estore\\Client\\Estore.Client.csproj"
             },
-            "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Shared\\Estore.Shared.csproj": {
-              "projectPath": "C:\\Users\\usama riasat\\Documents\\6th Semester\\EAD\\Semester Project\\Git Clone\\Estore\\Shared\\Estore.Shared.csproj"
+            "E:\\BIT\\Semester-VI\\EAD\\Project\\Estore\\Shared\\Estore.Shared.csproj": {
+              "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Project\\Estore\\Shared\\Estore.Shared.csproj"
             }
           }
         }
@@ -2711,12 +2711,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.15, 3.1.15]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

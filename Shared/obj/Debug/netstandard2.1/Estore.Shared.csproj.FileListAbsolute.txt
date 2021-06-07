@@ -15,3 +15,12 @@ C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Esto
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.csproj.CoreCompileInputs.cache
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.dll
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Shared\bin\Debug\netstandard2.1\Estore.Shared.deps.json
+E:\BIT\Semester-VI\EAD\Project\Estore\Shared\bin\Debug\netstandard2.1\Estore.Shared.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Shared\bin\Debug\netstandard2.1\Estore.Shared.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.csproj.AssemblyReference.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.AssemblyInfoInputs.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.AssemblyInfo.cs
+E:\BIT\Semester-VI\EAD\Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.csproj.CoreCompileInputs.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.pdb
