@@ -83,15 +83,25 @@ using Estore.Client.Services;
 #line hidden
 #nullable disable
 #nullable restore
+<<<<<<< HEAD
 #line 11 "E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\_Imports.razor"
 using Estore.Server.Models;
+=======
+#line 12 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\_Imports.razor"
+using Estore.Client.Controls;
+>>>>>>> a339cdda5318330ba719111e9b59e3bafd0aa065
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
+<<<<<<< HEAD
 #line 12 "E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\_Imports.razor"
 using Estore.Client.Controls;
+=======
+#line 3 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\Pages\Index.razor"
+using Estore.Server.Models;
+>>>>>>> a339cdda5318330ba719111e9b59e3bafd0aa065
 
 #line default
 #line hidden
@@ -104,6 +114,30 @@ using Estore.Client.Controls;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 314 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\Pages\Index.razor"
+              
+            public string SellerName = "Usama Riasat";
+            public int ProductQuantity = 200;
+
+            //Get list of products
+            public string Category = "Furniture";
+            public string ProductName = "Silver Sofa";
+            public string Price = "799";
+            public string Ratings = "231";
+
+            private Catalog Catalog { get; set; } = new Catalog();
+            protected async override Task OnInitializedAsync()
+            {
+                Catalog = await svc.GetProduct();
+                await base.OnInitializedAsync();
+            }
+        
+
+#line default
+#line hidden
+#nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ProductServices svc { get; set; }
     }
 }
 #pragma warning restore 1591

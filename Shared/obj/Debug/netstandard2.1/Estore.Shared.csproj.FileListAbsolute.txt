@@ -23,6 +23,7 @@ E:\BIT\Semester-VI\EAD\Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Sha
 E:\BIT\Semester-VI\EAD\Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.csproj.CoreCompileInputs.cache
 E:\BIT\Semester-VI\EAD\Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.dll
 E:\BIT\Semester-VI\EAD\Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.pdb
+<<<<<<< HEAD
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Shared\bin\Debug\netstandard2.1\Estore.Shared.deps.json
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Shared\bin\Debug\netstandard2.1\Estore.Shared.dll
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Shared\bin\Debug\netstandard2.1\Estore.Shared.pdb
@@ -32,3 +33,6 @@ E:\BIT\Semester-VI\EAD\Semester Project\Estore\Shared\obj\Debug\netstandard2.1\E
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.csproj.CoreCompileInputs.cache
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.dll
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.pdb
+=======
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Shared\obj\Debug\netstandard2.1\Estore.Shared.csprojAssemblyReference.cache
+>>>>>>> a339cdda5318330ba719111e9b59e3bafd0aa065
