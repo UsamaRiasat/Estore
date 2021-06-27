@@ -1436,9 +1436,26 @@ E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\Estore.Cli
 E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\Estore.Client.csproj.CopyComplete
 E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\Estore.Client.dll
 E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\Estore.Client.pdb
+<<<<<<< HEAD
 E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\integrity\nNo_i3lLUx8eWSvLHj5BXulgcBFDBF5FSwTb_o4vGoc=.hash
 E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\integrity\auos3VK3p95qjwb8v4GE_zfxF4G9WESKR0MT_FIsEUA=.hash
 E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\integrity\MQadONMb5JShaZRgonBhXMlxDPIhyWcm1Otf563Gx-Q=.hash
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\wE3qH4yuUzSV29TmB6X9JM20YeCttxDxUVWYY3_I8Mg=.hash
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\fdDMj5XLTbvrAlssp34y_urxXo8Uida3XyYlB6-D-aM=.hash
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\ndthX2q_zagoQ36zZg-inzubtorc34-z68sIPjTp8n8=.hash
+=======
+E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\integrity\TtXoFR69dKqpDztYextkpgiXr4rg2k_j5SKg_yp-6OU=.hash
+E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\integrity\OvOsnYJ_nyYzwMu8EJMhmilSSBybww9OcCkUx6eLD2g=.hash
+E:\BIT\Semester-VI\EAD\Project\Estore\Client\obj\Debug\netstandard2.1\integrity\cDWXjvvTCU2SJyHfbvfcksw6xWavH2kYLgcn8aePfXY=.hash
+>>>>>>> b23884e14c8cef7e2712a0d5313a4ef86848e857
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\VMUVK__JoAr2l7dqAWMk_PRNmnEFtsXWZSazSCcJt_I=.hash
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\yBX8IaNlBTb06Aq62Zny5svYq6qPP1B-xVI9elgJD-A=.hash
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\24bm7XRL-Ecx-8bMZYwKIB5k9MhBe_UqHAShoISfDAQ=.hash
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\JVRkMxW7yF8JNL6hrZQsyscdXlHraPJfRxOTlUpFSvc=.hash
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\qhXC7iiwHlJ9cR77xsVtJBx_KrW0sr1uMJ09IOa2AxM=.hash
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\wnP3WklxesAlf7ggy-YWt2wgNNBDOc9G-eITMMozzps=.hash
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\vB2YP8d3sF9vcOuN0W4Pk8RhAWQUCZwpuS-NgwBHhXA=.hash
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\k_ibtYll1EFYKAnd_tMIsAh_Zsfs3W0A8Hkfn8nmoPc=.hash
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\9YdfLUD2UbmgErEkVh5yhrAaQYDLGtzjs8oDYARtx_A=.hash
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\6ztQbONSNiLNCQDQSCdMN-AGG9KHCJgtqYyHlqYfF9U=.hash
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\NdCrRESKSNkcttNI98cik5OPiL2xc52pq6saF4BHgsg=.hash

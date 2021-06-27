@@ -91,7 +91,43 @@ namespace Estore.Server.Controllers
             List<Product> products = DB.Products.Where(x=>x.OwnerId==id).ToList<Product>();
             return products;
         }
-        
+
+
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Product>> GetProduct(int id)
+        {
+            Console.WriteLine($" In get product {id}");
+            Product pd = new Product();
+            var product = await DB.Products.FindAsync(id);
+            var seller = DB.Sellers.Where(p => p.Id == System.Convert.ToInt32(product.OwnerId)).FirstOrDefault();
+          
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+
+
+           
+            
+            pd.Id = product.Id;
+            pd.Name = product.Name;
+            pd.Price = product.Price;
+            pd.Discount = product.Discount;
+            pd.Category = product.Category;
+            pd.ImageAddress = product.ImageAddress;
+            pd.Ratings = product.Ratings;
+            pd.OwnerId = System.Convert.ToString(seller.Id);
+            
+
+
+            return pd;
+        }
+
 
     }
+
+
+
 }

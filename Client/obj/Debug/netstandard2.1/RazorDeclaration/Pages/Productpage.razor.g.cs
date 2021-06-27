@@ -97,6 +97,7 @@ using Estore.Client.Controls;
 #line hidden
 #nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/ProductPage")]
+    [Microsoft.AspNetCore.Components.RouteAttribute("/ProductPage/{id:int}")]
     public partial class Productpage : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -104,6 +105,7 @@ using Estore.Client.Controls;
         {
         }
         #pragma warning restore 1998
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ProductServices svc { get; set; }
     }
 }
 #pragma warning restore 1591
