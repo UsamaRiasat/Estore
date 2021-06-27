@@ -118,6 +118,18 @@ using Estore.Client.Controls;
     [Parameter]
     public int Ratings { set; get; }
 
+    [Parameter]
+    public int id { set; get; }
+
+    [Parameter]
+    public string image { get; set; }
+
+    string imageAddress(string image)
+    {
+        string temp = "images/" + image + ".png";
+        return temp;
+    }
+
     
 
 #line default

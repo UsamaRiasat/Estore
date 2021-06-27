@@ -957,7 +957,6 @@ E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Es
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Shared.dll
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.pdb
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Shared.pdb
-E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.AssemblyReference.cache
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfoInputs.cache
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfo.cs
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.CoreCompileInputs.cache
@@ -979,3 +978,4 @@ E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Es
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.dll
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.pdb
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.genruntimeconfig.cache
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.AssemblyReference.cache

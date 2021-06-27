@@ -83,25 +83,15 @@ using Estore.Client.Services;
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 11 "E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\_Imports.razor"
-using Estore.Server.Models;
-=======
-#line 12 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\_Imports.razor"
+#line 12 "E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\_Imports.razor"
 using Estore.Client.Controls;
->>>>>>> a339cdda5318330ba719111e9b59e3bafd0aa065
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 12 "E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\_Imports.razor"
-using Estore.Client.Controls;
-=======
-#line 3 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\Pages\Index.razor"
+#line 3 "E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\Pages\Index.razor"
 using Estore.Server.Models;
->>>>>>> a339cdda5318330ba719111e9b59e3bafd0aa065
 
 #line default
 #line hidden
@@ -115,7 +105,7 @@ using Estore.Server.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 314 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\Pages\Index.razor"
+#line 316 "E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\Pages\Index.razor"
               
             public string SellerName = "Usama Riasat";
             public int ProductQuantity = 200;

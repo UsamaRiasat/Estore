@@ -1,7 +1,7 @@
 ﻿<div class="col-md-4 col-sm-6">
     <div class="small-box-c">
         <div class="small-img-b">
-            <a href="/productpage/@"> <img src="images/tr1.png" alt="#" /></a>
+            <a href="/"> <img src="@imageAddress(image)" alt="#" /></a>
         </div>
         <div class="dit-t clearfix">
             <div class="left-ti">
@@ -11,8 +11,8 @@
             <a href="/" tabindex="0">$@Price</a>
         </div>
         <div class="prod-btn">
-            <a href="#"><i class="fa fa-star" aria-hidden="true"></i> Save to wishlist</a>
-            <a href="#"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Like this</a>
+            <button type="submit" class="btn btn-warning">Update</button>
+            <button type="submit" class="btn btn-danger">Delete</button>
             <p>@Ratings likes</p>
         </div>
     </div>
@@ -32,5 +32,14 @@
 
     [Parameter]
     public int id { set; get; }
+
+    [Parameter]
+    public string image { get; set; }
+
+    string imageAddress(string image)
+    {
+        string temp = "images/" + image + ".png";
+        return temp;
+    }
 
     }

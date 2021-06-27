@@ -1459,7 +1459,6 @@ C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Esto
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\9YdfLUD2UbmgErEkVh5yhrAaQYDLGtzjs8oDYARtx_A=.hash
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\6ztQbONSNiLNCQDQSCdMN-AGG9KHCJgtqYyHlqYfF9U=.hash
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\NdCrRESKSNkcttNI98cik5OPiL2xc52pq6saF4BHgsg=.hash
-<<<<<<< HEAD
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\bin\Debug\netstandard2.1\Estore.Client.StaticWebAssets.xml
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\bin\Debug\netstandard2.1\Estore.Client.dll
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\bin\Debug\netstandard2.1\Estore.Client.pdb
@@ -2182,7 +2181,6 @@ E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\E
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\Estore.Client.csproj.CopyComplete
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\Estore.Client.dll
 E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\Estore.Client.pdb
-=======
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\OR_n2fFDlkmFVz5iHTds_3XlYK1lPHnat0C0n8ym1Fs=.hash
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\vIF0ADgo593NOznORm_RU3LU6ccEsjYkIvPwRXhnLHo=.hash
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\v4zlEO0C2zq-m5QPkvHnSpL8_CAsQdy2Y-MVjfDgIy0=.hash
@@ -2214,3 +2212,103 @@ C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Esto
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\UVuWg6v33rD08WecImveuTeS6nHpKyHA4AvO1QNaVtg=.hash
 C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\obj\Debug\netstandard2.1\integrity\-grij60m5UUjh9sxUU4XTBBkka_Epiqt9nr-brvxPYw=.hash
 >>>>>>> a339cdda5318330ba719111e9b59e3bafd0aa065
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\xvqw4iDTq8a71T2dOvmmk-QU269Bfz7Bzc8krWZY030=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\_1WcVTkhZSw9Sw1pQrRnJH2zhOfxyNgHmvDFcH1_akc=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\zeJrGB7PIyGT3SJXGRaqYbRLHnVTBZxh1MFqaPwfc7Q=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\rB10BFOQpwvVHYB4RlqLPdax32xrT6KQuddlYDLSSG4=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\7oigeixTpC6B8FazbS9-y1YewcrNDxZH9Z2sY1FBzU4=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\0HFAVg4f-M_aTUSnmzJecUOiEBI483T8z5d6PhgGw2E=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\3NJdOV9ig10b263dcBUY6zqza5HG_rMdw4t7k-27tI0=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\c9dN0DEusTR_ypHaQqGBoLs_IehijQ_rLu0bJQ6WIhA=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\_40gb40Q3twui79nwgD-2Bf0J18bFTAcFSzUFt0H-aI=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\a-0O17xywRVzIrAIgyeu4n24rpjPcHv2GIR2h47R4Jk=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\WigTrbmxO2ivhg90OkglQd_QbIOYxPIB7DY2nTXtwaA=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\FAPeMBbVWxhM-1O9taJCNMtgyw70olpT6vO6pwf3_5g=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\rcR0a-AMom-s8WdE-47_ONf4x8hZmGZDjT8dglW_JPw=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\EfHO4i7eYEssoGkXaVbNUjfeknBz_kCkAo5f_kd9X28=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\4FxoHcHhumL4ma2AwE1HEDsSfnmirHTqp4uXP-7U5JM=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\RazorDeclaration\Controls\ProductsForUser.razor.g.cs
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\Razor\Controls\ProductsForUser.razor.g.cs
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\aZnpN2_kEGv9t1d4ke8f3kG_or6fx5B5bM-U_u3GVLQ=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\tM7KHdr366ToKc7is-KbCDf4tn-4EiALgHzXv5JVBLA=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\wcGnIViBMiaAYxgksiRfC3DG8rSwN88Au4MX02eZxos=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\OlCKjyjNEOr7bWH7bB6fe2012Uehxe06dGnyddX005I=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\1kcMbchu0LFG-kGVZMOoroUaauDDwz3_TTUCAybN4LU=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\Bgj7_QBsOhUgiquE-I6jJ0XIYuofcalsReTPjtAvSO4=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\f-Qpjw51yN1U3OxFtTygWZoOxFkbd0noTIaMhMbp9sc=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\1nY1KeClBFxhzir6RPivhQ5UPcE5UXQ5_dr0bSLrXos=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\SctICdXrqWXZjKxQ-_eVAPiNBNtH36HbrezdFAmoyR8=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\hGU1-puSgPBBSSADGHzwrLVPmyeNJgRJbImyf5iSVx4=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\1_8-8AP6hxtRQIg3ZqAWsvS5dfUm_u4pM4VEPD9vVQk=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\qCLha-nEU02thLIrpJPLi7FJMANSaOzaPb20LMFIgBY=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\FEDq9bo-dn-F37okX08AHNiGMY1Ja-hDOf50kx4NPBc=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\9HySCZxCDwM-tqxsOaCkZ8-je4dMdjt4M5btXVwruPc=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\iNYqiLxS11kprf_KbMdy6bh3-LvcNbZOwJZMi0T1-eE=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\EPDaaRmicMYF3VZtm88lDGJowdgofPqbBV09PW9hejo=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\77mgQmTi4GHNAtvhuMZwQQTGkWA0P0chi291YhrcycA=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\fgnKYINPlxK80XWBe1pW1gLQ6ScZa11n8RHpIGow8Eg=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\ffEcuAhQ1I5ixpLEU_KC8Fyjgn9pCkXW-2nWK-joawA=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\hZprqb11DDbRQC5TFSq9P-hvmecuaLPyDvrDPupmmHE=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\Flw7YRaI32Qfv1WnWyAIQn_Eib4u0m-Ge2kORXfClZA=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\jcz1nET_CV0tYgdXD4MHrHAWtRxJjOUXUcnqT5xlrEk=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\49RPXG6RIvJHW5iiaIVr8B19WUpU3UEerobOk_4yVQI=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\NawU5SN4tQNjlSOgg7YPZo1T97KaLmC2ggKl9-NCi60=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\N5B3cOMVcGwJbtdr5kGFWmqP7TFxm7kEL8xISUstKo4=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\W_FAmxzqSYMNNHB8Yi80QtpJHpRl62FnF--u05ifJn8=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\E8aC48oC2pU-zcX-KTTW8hB6VhfJyTpU7N5IAeSw_5I=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\Ga-TITR2xoB_IJoq65nnElF1FphY-yjbLPkIQzrFLQg=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\t-tDg6p4b6FQ3JeX_QN1cvt2NT_iubPpwJjKqQicrrM=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\G_AvUuSSEsa-kM6Iq7TVKaTUNhSoi87Di24Fsb4tuSU=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\oTdaEQ8-nPcjRwOm6WaC1-tqqdUoG8HMV0irQNUfuis=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\8x1xTdsXBZxIDiO4bLW0TOfb8TXTOdF1uoNlH1HNO9g=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\POqOt45Mlv22DbIyT7jpEd0z8cN_0ii7EQkQXOdq5xE=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\CravKqea-xZUJJ9wY30BfkRwJGB9KJLYrSQPQPHtC5o=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\k-ceN21iP0SJF-k_Ytl2t0wyX5wqKy072bRMr94E6Xw=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\TYgDfmO3OXN98gs4_nrqyMp0rcHIAGcttXFrCriFZDY=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\Oj0Tj3UkADvh5BvkQralj4xSajRhuEumm1AD-V3fm4Y=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\ihX-zYbFnUQlt9WlWXIbnUyZTyyLYf-C-k6BNbAh-Ew=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\uojvo0-O8lzKdm6dCbONZGn4R47CsDXDNbHpYN4ECyk=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\RazorDeclaration\Controls\ProductInfo.razor.g.cs
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\Razor\Controls\ProductInfo.razor.g.cs
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\dge-G4P28KkAfTkgHMQUJv4Jb4LMH1oR61cdtqpmoNE=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\l2B7Opk422MzsAnAH7Mgk3gEBZoT_fwH_0IruPW60kU=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\teLv4YL7FHkexTofBMa9scx-0a64Z7MdE46q3fq6ySg=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\iGOqWMrhAF-iKF-vBG6o4t3a6zvy-6kb5Z1LgHpx2ps=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\39kDX-16Ed38r1AdA4EUXO2E7Q4bISoxJQODGaZuOkA=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\4tsjDheAocZcTL_wIq2TuXS1YCYWFGHVIsldxngxDxQ=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\p5iKmpAufmmNGAuns9su9x7WTVQ8SSD5y88Xw8MiYxQ=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\EILl6O3t__t2bloOEibUbxeXf2bnTfoPf2h66yua4TM=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\Wvi35XOwiFuSRZEmlLiZKKSVIBwwbS-vYLoA9oySxck=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\rrIcey1tvwZEzLOEG2LJU2Q7lT9hYgjBTEoIABp1I1Y=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\-DV4qCR2uJI5_eysip4Yh9cSwYknazV8EoaEV9C7ChA=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\SdtUOavkfkFmg9T1ocoqdBDy6YJFqjzZksASV57arTI=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\IMs4k6HwtJTT0O-HpO_TrsvInsIDpjJchm8pIo1Hj1E=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\3bOs3aH3HB1REBdKPfYFIOkRql7eQcv9oRMd7RSy1z8=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\m6wCSAdQ6MYh8jLBlbKH6Pib9PVJmLIXcNITEODsBuU=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\9j7JgQEyFDH_OXJYNWQFBNj9PaqYDUBY1NGq0jkAIEQ=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\G-LwXhcqrOlYeL9cF9hdMmljSRCg2dIUxwtT_XRIgqY=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\VYl7mCOCtVqNJrl8MyL_C9s6-NUZo4Z_Dg9lDrtE1Ts=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\YW-CJkBjI7ggNn0XBUmiHQU5b1IiK1bxPa-ODyzXoSk=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\--MPqfeYTcI48s15sfuc8ycZ5UNIQQBMg9B9IR9cJwQ=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\O7cBhBOkcdUBdwqn0A_wuHlZI3lwEt683M0CNOA1bJg=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\EUOwiqYZxcn3RiU1p9QE9hPQfcCf2X2uqDKPKuHVfXY=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\tRWTDaWIsN_VuAswUoOwLp-v6AD9Z4Eg8ttRTftIMtk=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\2Ql2kKpaqPns24or45WgnNMyEOWsOB3m9k2zgt3ouvY=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\QeY1ZOdlTLfPg0tJPMGubnwzvwIkCQd8Mkrq8jp_yZE=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\68gVwwQrtL1MMfBw3Ygek3-hJiikfSbDv1YjZK5D9jA=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\n_Is6VkOBtrq3V3gv_1XfXKOD-ZbmgmlmvE5SBWr6aM=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\nWw9MBubrwDS7uibLjzwzdAOF50AMbO2rrum8iEEUSU=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\RAeU0P42I7tuaIKqCNdJ9G8TYvGUvJMq3ae0BkA5vCg=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\kfq9RBZymYG2W1I5Yp1_9xOb8MRu8T-GQTc9PmdSJTg=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\Z6B_UQqNt0x_ThTDoODpSBwJ2o8exjWUeh6oNIArrNc=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\LpbIQNwck_ExpAw0F6Eig7SDoeh6bN5Yw-qVF125dW0=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\KSslBpGOrecNX6ESk7ScdKbDs88X1vjWVJtogKdfsVk=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\fTf5RQ5MqRrvP_3gnDo4OmJsb4H-oeNLBgn-JHH3-do=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\M_8sKu0RwQr7IL1eo5cCobUB4Fakyj54G_P7nT9imGk=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\CUgvfjb6bQbOfp-B821xF38qlm0RbLumwVw5UwvRHCQ=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\mnxlnI0EosgxcDv8OlWb5ahST1ckTxH1qtJdQiSJ_o4=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\0M3UjMFEm9HytGNQmnDKPpVpJTHRRScvjsMTTF532vg=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\CEiTE_r6QYqsfLNGQTh5WkSBqoJb_dYJ26D9PmPSJkU=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\hvdgamgjHp8uT-EQkF2_E0FAn0TckuoSgfucn2gbexo=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\Ei5ucC-soFiHw_zi7tggLyWb45v-kGdt10mRLZzvZzc=.hash
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\obj\Debug\netstandard2.1\integrity\r6BpCuFV-xZXpJM1q0_Dh24iQteWfSWxbe4uZRVYixY=.hash

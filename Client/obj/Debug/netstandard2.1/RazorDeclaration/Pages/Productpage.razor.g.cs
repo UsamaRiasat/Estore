@@ -104,6 +104,29 @@ using Estore.Client.Controls;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 177 "E:\BIT\Semester-VI\EAD\Semester Project\Estore\Client\Pages\Productpage.razor"
+              
+            public string SellerName = "Usama Riasat";
+            public int ProductQuantity = 200;
+
+            //Get list of products
+            public string Category = "Furniture";
+            public string ProductName = "Silver Sofa";
+            public string Price = "799";
+            public string Ratings = "231";
+
+            private Catalog Catalog { get; set; } = new Catalog();
+            protected async override Task OnInitializedAsync()
+            {
+                Catalog = await svc.GetProduct();
+                await base.OnInitializedAsync();
+            }
+        
+
+#line default
+#line hidden
+#nullable disable
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private ProductServices svc { get; set; }
     }
 }
