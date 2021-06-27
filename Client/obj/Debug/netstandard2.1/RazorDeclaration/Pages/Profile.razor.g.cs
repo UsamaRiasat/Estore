@@ -105,7 +105,7 @@ using Estore.Server.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 348 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\Pages\Profile.razor"
+#line 140 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\Pages\Profile.razor"
  
     public string SellerName = "Usama Riasat";
     public int ProductQuantity = 200;
