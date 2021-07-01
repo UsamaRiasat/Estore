@@ -118,6 +118,9 @@ using Estore.Client.Controls;
     [Parameter]
     public int Ratings { set; get; }
 
+    [Parameter]
+    public int id { set; get; }
+
     
 
 #line default

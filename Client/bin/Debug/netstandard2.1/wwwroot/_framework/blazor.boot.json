@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Estore.Client.dll": "sha256-pJaem2xNnbgUfBirsNQ035AxEO7Iy7x0yjSVDrqesF8=",
+      "Estore.Client.dll": "sha256-Jv4oyY7Pn2O7OWfjzDm8d9YpFcCkiN26q+Kh3VnMFT8=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -111,7 +111,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "Estore.Client.pdb": "sha256-UVuWg6v33rD08WecImveuTeS6nHpKyHA4AvO1QNaVtg=",
+      "Estore.Client.pdb": "sha256-TQWaeMDIE1ofo1qhHqxpPSBhcV7LtZA8x8wZZKVLGrU=",
       "Estore.Shared.pdb": "sha256-vB2YP8d3sF9vcOuN0W4Pk8RhAWQUCZwpuS\/NgwBHhXA=",
       "Microsoft.Data.SqlClient.pdb": "sha256-6nKNVfiNR4inUtGezUcm6CbVuC9gID73Ouz6OV+k470="
     },

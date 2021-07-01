@@ -1,5 +1,5 @@
-@page "/ProductPage"
-@*@page "/ProductPage/{id:int}"*@
+@*@page "/ProductPage"*@
+@page "/ProductPage/{id:int}"
 @inject ProductServices svc 
 
 <div class="modal fade lug" id="myModal" role="dialog">
@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="prod-page-title">
                     <h2>All setup Sofa</h2>
-                    <p>By <span>Dex Morgan Mobilya</span></p>
+                    <p>By <span>@p.Name</span></p>
                 </div>
             </div>
         </div>
@@ -57,7 +57,7 @@
                         <img src="images/150x150.png" alt="#" />
                     </div>
                     <div class="pof-text">
-                        <h3>Morgan Mobilya</h3>
+                        <h3>>@p.Name</h3>
                         <div class="check-box"></div>
                     </div>
                     <a href="#">Visit store</a>
@@ -324,17 +324,15 @@
     </div>
 </div>
 
-@*@code{
+@code{
     [Parameter]
     public int id { get; set; }
-    ProductData p = new ProductData();
+    Product p = new Product();
     protected async override Task OnInitializedAsync()
     {
 
         p = await svc.GetProductDetail(id);
-        Console.WriteLine(p.reviews);
-        Console.WriteLine(p.reviews.Count);
+        Console.WriteLine(p);
         await base.OnInitializedAsync();
     }
-}*@
 }

@@ -96,7 +96,7 @@ using Estore.Client.Controls;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/ProductPage")]
+    [Microsoft.AspNetCore.Components.RouteAttribute("/ProductPage/{id:int}")]
     public partial class Productpage : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -104,6 +104,23 @@ using Estore.Client.Controls;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 327 "C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Client\Pages\Productpage.razor"
+      
+    [Parameter]
+    public int id { get; set; }
+    Product p = new Product();
+    protected async override Task OnInitializedAsync()
+    {
+
+        p = await svc.GetProductDetail(id);
+        Console.WriteLine(p);
+        await base.OnInitializedAsync();
+    }
+
+#line default
+#line hidden
+#nullable disable
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private ProductServices svc { get; set; }
     }
 }
