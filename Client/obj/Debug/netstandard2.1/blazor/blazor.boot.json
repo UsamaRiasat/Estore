@@ -6,7 +6,11 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+<<<<<<< HEAD
       "Estore.Client.dll": "sha256-Jv4oyY7Pn2O7OWfjzDm8d9YpFcCkiN26q+Kh3VnMFT8=",
+=======
+      "Estore.Client.dll": "sha256-hvdgamgjHp8uT\/EQkF2+E0FAn0TckuoSgfucn2gbexo=",
+>>>>>>> c6a3433559cf7a6aa12f974f94a517290c265339
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -45,7 +49,7 @@
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-9UNtwDMFW86VtnTtJFk9xcc1hCnXFGXccFv3SkbgYy0=",
-      "Estore.Shared.dll": "sha256-qhXC7iiwHlJ9cR77xsVtJBx+KrW0sr1uMJ09IOa2AxM=",
+      "Estore.Shared.dll": "sha256-ckNMFfD9SY1IYyqJxPTnW\/igwZ8V+au7Qxri7B9y+xI=",
       "Microsoft.EntityFrameworkCore.Relational.dll": "sha256-Womeaxl4YRRVXztK9uVYcDrhsPRDCREXgyLmpuaVIhY=",
       "System.Diagnostics.DiagnosticSource.dll": "sha256-sbc04n9Z3XKC7LqBYyOyNFlslAcoXtmk\/7Ez6zn0BjA=",
       "System.Runtime.Extensions.dll": "sha256-1FBfAreOfbXDp0WA294BCrk0EIa5ZqlghOuvDlqFtk8=",
@@ -111,8 +115,13 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
+<<<<<<< HEAD
       "Estore.Client.pdb": "sha256-TQWaeMDIE1ofo1qhHqxpPSBhcV7LtZA8x8wZZKVLGrU=",
       "Estore.Shared.pdb": "sha256-vB2YP8d3sF9vcOuN0W4Pk8RhAWQUCZwpuS\/NgwBHhXA=",
+=======
+      "Estore.Client.pdb": "sha256-Ei5ucC\/soFiHw+zi7tggLyWb45v\/kGdt10mRLZzvZzc=",
+      "Estore.Shared.pdb": "sha256-BGMywWnPdg8dn2e4E5SPwbnvisaqir4Aogh0g+oZliw=",
+>>>>>>> c6a3433559cf7a6aa12f974f94a517290c265339
       "Microsoft.Data.SqlClient.pdb": "sha256-6nKNVfiNR4inUtGezUcm6CbVuC9gID73Ouz6OV+k470="
     },
     "runtime": {

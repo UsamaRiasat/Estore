@@ -2,7 +2,7 @@
 
 @using Estore.Server.Models
 @inject ProductServices svc
-<!-- Modal OSama-->
+<!-- Modal-->
 <div class="modal fade lug" id="myModal" role="dialog">
     <div class="modal-dialog">
         -->
@@ -178,7 +178,9 @@
 </div>
 @*SHOW PRODUCTS*@
 
-
+<div class="text-center" style="margin-top: 50px">
+    <h1>Recent Products</h1>
+</div>
 <div class="panel-body w-75">
     <div class="tab-content">
         <div class="tab-pane fade in active" id="tab1default">
@@ -186,7 +188,11 @@
                 @foreach (var p in Catalog.Products)
                 {
 
+<<<<<<< HEAD
                     <Products Category="@p.Category" ProductName="@p.Name" Price="@p.Price" Ratings="123" id="@p.Id"></Products>
+=======
+                    <ProductsForUser Category="@p.Category" image="@p.ImageAddress" ProductName="@p.Name" Price="@p.Price" Ratings="123"></ProductsForUser>
+>>>>>>> c6a3433559cf7a6aa12f974f94a517290c265339
                 }
 
             </div>
